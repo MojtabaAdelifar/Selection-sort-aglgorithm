@@ -1,7 +1,7 @@
 
 
 def selectionSort(array):
-    # loops through entier array in order to finde the minimum value
+    # loops through entier array in order to find the minimum value
     for step in range(0, len(array)):
         min_index = step
         
